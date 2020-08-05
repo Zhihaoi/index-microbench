@@ -1,7 +1,15 @@
 # index-microbench
 
+clone from https://github.com/wangziqi2016/index-microbench
+
+## Requirements:
+1. Python3
+2. Openjdk
+
+
 ## Generate Workloads ## 
 
+**YCSB is already included**
 1. Download [YCSB](https://github.com/brianfrankcooper/YCSB/releases/latest)
 
    ```sh
