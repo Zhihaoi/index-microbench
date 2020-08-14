@@ -6,6 +6,8 @@ clone from https://github.com/wangziqi2016/index-microbench
 1. Python3
 2. Openjdk
 
+## May be use ln
+sudo ln -s /usr/bin/python3 /usr/bin/python
 
 ## Generate Workloads ## 
 
