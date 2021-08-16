@@ -1,6 +1,6 @@
 # index-microbench
 
-clone from https://github.com/wangziqi2016/index-microbench
+Modified from https://github.com/wangziqi2016/index-microbench
 
 ## Requirements:
 1. Python3
