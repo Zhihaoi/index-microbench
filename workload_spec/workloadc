@@ -22,8 +22,8 @@
 #   Request distribution: zipfian
 
 fieldcount=0
-recordcount=16000000
-operationcount=16000000
+recordcount=5000000
+operationcount=5000000
 fieldlength=0
 
 workload=com.yahoo.ycsb.workloads.CoreWorkload
