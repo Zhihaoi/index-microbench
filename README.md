@@ -7,7 +7,7 @@ Modified from https://github.com/wangziqi2016/index-microbench
 2. Openjdk
 
 ## May be use ln
-sudo ln -s /usr/bin/python3 /usr/bin/python
+sudo ln -sf /usr/bin/python3 /usr/bin/python
 
 ## Generate Workloads ## 
 
